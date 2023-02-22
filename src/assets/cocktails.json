@@ -1,0 +1,17 @@
+{
+    "cocktail1": {
+        "name": "Mojito",
+        "price": 12,
+        "image": "https://www.thecocktaildb.com/images/media/drink/metwgh1606770327.jpg"
+    },
+    "cocktail2": {
+        "name": "Marguarita",
+        "price": 12,
+        "image": "https://www.thecocktaildb.com/images/media/drink/3pylqc1504370988.jpg"
+    },
+    "cocktail3": {
+        "name": "Martini",
+        "price": 8,
+        "image": "https://www.thecocktaildb.com/images/media/drink/71t8581504353095.jpg"
+    }
+}
